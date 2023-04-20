@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reema08&label=Profile%20views&color=0e75b6&style=flat" alt="reema08" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Google Analytics GA4**
 
 - 💬 Ask me about **Data cleaning, Data Warehousing, Visualization, Modeling**
 
