@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **reema81294@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ai246A9gpBx_9o_Vjn9BUJraOh-DQHdF/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HN1vMofRxr5N1Xp1QDm6ZFjSIoV1aOfN/view?usp=sharing]
 
 - ⚡ Fun fact **I AM CREATIVE AND CODER!**
 
